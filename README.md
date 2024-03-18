@@ -1,4 +1,3 @@
-# raid-discord
 # BOT VỚI MỤC ĐÍCH GIÁO DỤC 
 # KHÔNG CỔ VŨ CHO RAID CỰC ĐOAN
 # DEV BY YSNX From Zone 1110
